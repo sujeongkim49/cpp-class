@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8578B79E-252B-4742-B352-3F25E471E013}|lab2.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8578B79E-252B-4742-B352-3F25E471E013}|lab2.vcxproj|solutionrelative:rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578B79E-252B-4742-B352-3F25E471E013}|lab2.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8578B79E-252B-4742-B352-3F25E471E013}|lab2.vcxproj|solutionrelative:rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578B79E-252B-4742-B352-3F25E471E013}|lab2.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8578B79E-252B-4742-B352-3F25E471E013}|lab2.vcxproj|solutionrelative:lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab2.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\lab2.cpp",
+              "RelativeDocumentMoniker": "lab2.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\lab2.cpp",
+              "RelativeToolTip": "lab2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T03:00:12.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rectangle.h",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\rectangle.h",
+              "RelativeDocumentMoniker": "rectangle.h",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\rectangle.h",
+              "RelativeToolTip": "rectangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-17T01:22:15.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\rectangle.cpp",
+              "RelativeDocumentMoniker": "rectangle.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\my cpp\\2-2 class\\lab2\\rectangle.cpp",
+              "RelativeToolTip": "rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-17T01:22:06.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

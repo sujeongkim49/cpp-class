@@ -1,0 +1,16 @@
+insert haha 23
+insert huhu 77
+insert hihi 12
+insert hoho 45
+insert ha 12
+insert haha 99
+insert hwhw 55
+insert hvhv 39
+print
+delete hihi
+delete huhu
+print
+find haha
+find huhu
+find hoho
+find hohoho

@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2E815C9E-10EA-449A-83A7-370098AFD234}|lab3.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\lab3\\maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E815C9E-10EA-449A-83A7-370098AFD234}|lab3.vcxproj|solutionrelative:maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E815C9E-10EA-449A-83A7-370098AFD234}|lab3.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\lab3\\lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E815C9E-10EA-449A-83A7-370098AFD234}|lab3.vcxproj|solutionrelative:lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab3.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\lab3\\lab3.cpp",
+              "RelativeDocumentMoniker": "lab3.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\lab3\\lab3.cpp",
+              "RelativeToolTip": "lab3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T08:00:59.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "maze.cpp",
               "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\lab3\\maze.cpp",
               "RelativeToolTip": "maze.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-19T04:59:40.282Z",
               "EditorCaption": ""

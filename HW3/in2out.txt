@@ -1,0 +1,10 @@
+
+Inorder traversal : ha:12 haha:99 hihi:12 hoho:45 huhu:77 hvhv:39 hwhw:55 
+Postorder traversal : ha:12 hoho:45 hihi:12 hvhv:39 hwhw:55 huhu:77 haha:99 
+
+Inorder traversal : ha:12 haha:99 hoho:45 hvhv:39 hwhw:55 
+Postorder traversal : ha:12 hoho:45 hwhw:55 hvhv:39 haha:99 
+The value of haha is 99
+No such key : huhu
+The value of hoho is 45
+No such key : hohoho

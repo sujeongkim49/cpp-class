@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|solutionrelative:maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|solutionrelative:list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\poly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|solutionrelative:poly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|solutionrelative:polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\operator_overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|solutionrelative:operator_overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\chain2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|solutionrelative:chain2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\chain1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|solutionrelative:chain1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\ChangeSize1D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87FF7A69-77F3-469D-90B7-E38CD29951EB}|study.vcxproj|solutionrelative:ChangeSize1D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "list.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\list.cpp",
+              "RelativeDocumentMoniker": "list.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\list.cpp",
+              "RelativeToolTip": "list.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T10:14:20.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "chain2.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\chain2.cpp",
+              "RelativeDocumentMoniker": "chain2.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\chain2.cpp",
+              "RelativeToolTip": "chain2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:43:00.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chain1.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\chain1.cpp",
+              "RelativeDocumentMoniker": "chain1.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\chain1.cpp",
+              "RelativeToolTip": "chain1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:29:54.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangeSize1D.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\ChangeSize1D.cpp",
+              "RelativeDocumentMoniker": "ChangeSize1D.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\ChangeSize1D.cpp",
+              "RelativeToolTip": "ChangeSize1D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T09:04:37.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "maze.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\maze.cpp",
+              "RelativeDocumentMoniker": "maze.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\maze.cpp",
+              "RelativeToolTip": "maze.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T18:25:36.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "poly.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\poly.cpp",
+              "RelativeDocumentMoniker": "poly.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\poly.cpp",
+              "RelativeToolTip": "poly.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T18:04:24.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "operator_overloading.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\operator_overloading.cpp",
+              "RelativeDocumentMoniker": "operator_overloading.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\operator_overloading.cpp",
+              "RelativeToolTip": "operator_overloading.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T17:52:23.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "polynomial.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\polynomial.cpp",
+              "RelativeDocumentMoniker": "polynomial.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\study\\polynomial.cpp",
+              "RelativeToolTip": "polynomial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T17:40:41.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

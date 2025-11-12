@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\Maxheap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65027D34-124F-484B-944E-B7526E90FE6F}|Maxheap.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\Maxheap\\maxheap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65027D34-124F-484B-944E-B7526E90FE6F}|Maxheap.vcxproj|solutionrelative:maxheap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65027D34-124F-484B-944E-B7526E90FE6F}|Maxheap.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\Maxheap\\max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65027D34-124F-484B-944E-B7526E90FE6F}|Maxheap.vcxproj|solutionrelative:max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "maxheap.h",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\Maxheap\\maxheap.h",
+              "RelativeDocumentMoniker": "maxheap.h",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\Maxheap\\maxheap.h*",
+              "RelativeToolTip": "maxheap.h*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-11T16:50:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "max.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\Maxheap\\max.cpp",
+              "RelativeDocumentMoniker": "max.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\Maxheap\\max.cpp",
+              "RelativeToolTip": "max.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-11T16:49:35.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\transitiveClosure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:transitiveClosure.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\all-pairsShortestPaths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:all-pairsShortestPaths.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\shortestPath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:shortestPath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\prim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:prim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\sollin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:sollin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\mstree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:mstree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\Kruskal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:Kruskal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\spanningTrees.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:spanningTrees.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\connected component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:connected component.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\DFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:DFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\adjacency Multilists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:adjacency Multilists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\adjacencyList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:adjacencyList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\inverseAdjacencyLIst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6165E88F-C693-4AA8-A831-BD40EB0F55D6}|6_graphs.vcxproj|solutionrelative:inverseAdjacencyLIst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mstree.h",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\mstree.h",
+              "RelativeDocumentMoniker": "mstree.h",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\mstree.h",
+              "RelativeToolTip": "mstree.h",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-28T06:58:30.686Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "transitiveClosure.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\transitiveClosure.cpp",
+              "RelativeDocumentMoniker": "transitiveClosure.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\transitiveClosure.cpp",
+              "RelativeToolTip": "transitiveClosure.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T16:49:50.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "all-pairsShortestPaths.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\all-pairsShortestPaths.cpp",
+              "RelativeDocumentMoniker": "all-pairsShortestPaths.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\all-pairsShortestPaths.cpp",
+              "RelativeToolTip": "all-pairsShortestPaths.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T16:38:46.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shortestPath.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\shortestPath.cpp",
+              "RelativeDocumentMoniker": "shortestPath.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\shortestPath.cpp",
+              "RelativeToolTip": "shortestPath.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T10:48:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sollin.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\sollin.cpp",
+              "RelativeDocumentMoniker": "sollin.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\sollin.cpp",
+              "RelativeToolTip": "sollin.cpp",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAswNcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T16:44:53.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prim.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\prim.cpp",
+              "RelativeDocumentMoniker": "prim.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\prim.cpp",
+              "RelativeToolTip": "prim.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T15:40:38.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kruskal.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\Kruskal.cpp",
+              "RelativeDocumentMoniker": "Kruskal.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\Kruskal.cpp",
+              "RelativeToolTip": "Kruskal.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T06:40:18.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "spanningTrees.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\spanningTrees.cpp",
+              "RelativeDocumentMoniker": "spanningTrees.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\spanningTrees.cpp",
+              "RelativeToolTip": "spanningTrees.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T06:32:47.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "connected component.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\connected component.cpp",
+              "RelativeDocumentMoniker": "connected component.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\connected component.cpp",
+              "RelativeToolTip": "connected component.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T05:47:57.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BFS.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\BFS.cpp",
+              "RelativeDocumentMoniker": "BFS.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\BFS.cpp",
+              "RelativeToolTip": "BFS.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T05:09:31.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DFS.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\DFS.cpp",
+              "RelativeDocumentMoniker": "DFS.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\DFS.cpp",
+              "RelativeToolTip": "DFS.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T01:03:06.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "adjacency Multilists.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\adjacency Multilists.cpp",
+              "RelativeDocumentMoniker": "adjacency Multilists.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\adjacency Multilists.cpp",
+              "RelativeToolTip": "adjacency Multilists.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T01:03:08.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "adjacencyList.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\adjacencyList.cpp",
+              "RelativeDocumentMoniker": "adjacencyList.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\adjacencyList.cpp",
+              "RelativeToolTip": "adjacencyList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T01:03:07.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "inverseAdjacencyLIst.cpp",
+              "DocumentMoniker": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\inverseAdjacencyLIst.cpp",
+              "RelativeDocumentMoniker": "inverseAdjacencyLIst.cpp",
+              "ToolTip": "C:\\Users\\sj_ki\\OneDrive\\Desktop\\c\u002B\u002B class\\6_graphs\\inverseAdjacencyLIst.cpp",
+              "RelativeToolTip": "inverseAdjacencyLIst.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T01:02:48.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
